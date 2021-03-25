@@ -32,6 +32,14 @@
 
 ### Kanban
 
+![](https://github.com/shamy1st/jira/blob/main/images/kanban.png)
+
+![](https://github.com/shamy1st/jira/blob/main/images/kanban-board.png)
+
+### Jira Terms
+
+![](https://github.com/shamy1st/jira/blob/main/images/jira-terms.png)
+
 ## Working within an Agile Team - For general team members
 
 ## Leading an Agile Team - For managers, product owners, scrum masters etc
