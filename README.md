@@ -36,6 +36,14 @@
 
 ![](https://github.com/shamy1st/jira/blob/main/images/kanban-board.png)
 
+### Links
+
+* Agile in a Nutshell: http://www.agilenutshell.com/planning
+* The Scrum Guide: https://scrumguides.org/docs/scrumguide/v2016/2016-Scrum-Guide-US.pdf#zoom=100
+* How Kanban applies to Software Development: https://www.atlassian.com/agile/kanban
+* Principles behind the Agile Manifesto: http://agilemanifesto.org/principles.html
+* Kanban for Beginners: https://kanbanize.com/kanban-resources/getting-started/what-is-kanban
+
 ### Jira Terms
 
 ![](https://github.com/shamy1st/jira/blob/main/images/jira-terms.png)
