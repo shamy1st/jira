@@ -59,6 +59,7 @@
 ## Examples & Bonus Content
 
 ## Confluence
+* https://github.com/shamy1st/confluence
 
 ## Ref
 * https://www.udemy.com/course/the-complete-guide-to-jira-with-real-world-examples/
